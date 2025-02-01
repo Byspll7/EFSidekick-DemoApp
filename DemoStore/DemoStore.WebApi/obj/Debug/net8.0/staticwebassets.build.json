@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NWz/02CJjZ63gkD0oy0YPMWDMNIq5z3rw+esDWwtPDI=",
+  "Source": "DemoStore.WebApi",
+  "BasePath": "_content/DemoStore.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
