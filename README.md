@@ -7,9 +7,8 @@
 <h1>Let's look at a short example 📌</h1>
 <br>
 <br/>
-<h5>There are three tables here.</h5>
-<br/>
 <div>
-    <img src="![1](https://github.com/user-attachments/assets/ce54bd6b-d08a-4322-97d7-605659c2cbd2)">
+    <img src="[![1.png](https://i.postimg.cc/RVC8vVX1/1.png)](https://postimg.cc/py7kZxNy)" alt="Three tables in here">
 </div>
+
 
