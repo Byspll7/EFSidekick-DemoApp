@@ -7,8 +7,7 @@
 <h1>Let's look at a short example 📌</h1>
 <br>
 <br/>
-<div>
-    <img src="[![1.png](https://i.postimg.cc/RVC8vVX1/1.png)](https://postimg.cc/py7kZxNy)" alt="Three tables in here">
-</div>
+<img src="https://postimg.cc/py7kZxNy" alt="We have three tables in here">
+
 
 
