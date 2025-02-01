@@ -3,5 +3,7 @@
 
 
 Let's look at a short example 📌
+<br/>
 There are three tables here.
+
 ![1](https://github.com/user-attachments/assets/ce54bd6b-d08a-4322-97d7-605659c2cbd2)
