@@ -4,9 +4,12 @@
 </h3>
 
 
+<h1>Let's look at a short example 📌</h1>
+<br>
+<br/>
+<h5>There are three tables here.</h5>
+<br/>
+<div>
+    <img src="![1](https://github.com/user-attachments/assets/ce54bd6b-d08a-4322-97d7-605659c2cbd2)">
+</div>
 
-Let's look at a short example 📌
-<br/>
-There are three tables here.
-<br/>
-![1](https://github.com/user-attachments/assets/ce54bd6b-d08a-4322-97d7-605659c2cbd2)
