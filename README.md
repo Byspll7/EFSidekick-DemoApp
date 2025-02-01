@@ -7,7 +7,6 @@
 <h1>Let's look at a short example 📌</h1>
 <br>
 <br/>
-<img src="https://postimg.cc/py7kZxNy" alt="We have three tables in here">
-
-
-
+<h5>We have three tables in here</h5>
+<br/>
+![1](https://github.com/user-attachments/assets/9a3b8c1f-1e5e-4c6a-9ebe-8390897f2c9e)
