@@ -6,7 +6,6 @@
 <h3>İn this repository utilizes EFSidekick to enhance productivity by efficiently managing DbContext and generating repository methods automatically. With minimal configuration, it provides a streamlined approach to working with Entity Framework Core. </h3>
 
 <h2>Features</h2>
-<br/>
 <h5>Auto-Generated Repository Methods: Eliminates the need for repetitive CRUD implementations.
 
 Optimized DbContext Handling: Reduces boilerplate code and enhances maintainability.
